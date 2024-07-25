@@ -1,6 +1,6 @@
 # Prediction-model
 
-The code provided seems to be working with a dataset related to Mars weather data. It performs several data cleaning, transformation, and visualization tasks to analyze various aspects of the weather data on Mars. Here's a summary of what the code does:
+Here's a summary of what the code does:
 
 Data Cleaning and Transformation:
   1. The code loads a dataset containing Mars weather data.
